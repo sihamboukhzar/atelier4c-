@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1639671303 source:c:\users\ach\documents\projc\atelier4\main.cpp
+	<iostream>
+	<algorithm>
+	<set>
+
